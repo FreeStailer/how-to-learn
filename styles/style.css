@@ -283,9 +283,9 @@ h1 {
 
 /*FooteR*/
 .footer {
+  display: flex;
   background-color: #1f1f1f;
   min-height: 350px;
-  padding-top: 60px;
 }
 
 .footer__columns {
@@ -293,7 +293,7 @@ h1 {
   flex-wrap: wrap;
   width: 90%;
   height: 250px;
-  margin: 0 auto 40px;
+  margin: 60px auto 40px;
   padding: 0;
   justify-content: space-between;
 }

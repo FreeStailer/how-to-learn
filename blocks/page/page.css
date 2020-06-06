@@ -5,3 +5,8 @@
     font-family: 'Helvetica Neue', Arial, sans-serif;
     position: relative;
   }
+
+a:hover {
+    transition: linear 0.1s;
+    opacity: 0.5;
+}
